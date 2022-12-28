@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on **building my skills in Statistics, Python, Neural Networks and Machine learing!**
 
-- 💬 Ask me about my experiences! **Send me an email and we can schedule an interview!**
+- 💬 Ask me about my experiences!  you can reach me at --> tcroft0386@gmail.com
+
+- 📄 Want to know about my experiences? -- Send me an email and we can schedule an interview!
 
 - ⚡ Fun fact **I love Skiing, rock climbing, golfing, and poker!**
 
