@@ -5,7 +5,7 @@
 
 - 💬 Ask me about my experiences! **Send me an email and we can schedule an interview!**
 
-- ⚡ Fun fact **I love Skiing, rock climbing, golfing, and soccer!**
+- ⚡ Fun fact **I love Skiing, rock climbing, golfing, and poker!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
