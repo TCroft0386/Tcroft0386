@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Travis</h1>
+<h1 align="center">Hello! 👋, I'm Travis!</h1>
 <h3 align="center">A passionate Data Scientist from Philadelphia, PA!</h3>
 
 - 🔭 I’m currently working on **building my skills in Statistics, Python, Neural Networks and Machine learing!**
